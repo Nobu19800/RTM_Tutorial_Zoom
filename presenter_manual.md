@@ -12,8 +12,6 @@
   - 「入室時に参加者をミュートにする」をオン
   - 「待機室を有効にする」をオフ
   
-
-  
 ![image](https://user-images.githubusercontent.com/6216077/81893819-63a68f00-95e9-11ea-9cc8-6773a4b7afc1.png)
 
 事前に設定しなかった場合はZoom Meetingの`参加者`の画面から操作する。
@@ -27,6 +25,8 @@
 <!-- 「参加者をエントリ後にミュートにする」をオン -->
 <!-- 「画面共有中にZoomウィンドウを表示」をオン -->
 - 「ブレイクアウトルーム」をオン
+
+![image](https://user-images.githubusercontent.com/6216077/81928225-e5b1aa80-961f-11ea-9ec3-28b7b1c26d24.png)
 
 ## PowerPointの設定
 
