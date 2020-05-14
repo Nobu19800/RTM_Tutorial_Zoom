@@ -18,6 +18,7 @@
 チャットでの質問は講習会実施中であればいつでも受け付けます。
 
 1. Zoomグループチャットの画面を表示する。
+![image](https://user-images.githubusercontent.com/6216077/81928694-a46dca80-9620-11ea-8177-3e03ec076484.png)
 1. 送信先は`全員`に設定してメッセージを送信する。
 ![image](https://user-images.githubusercontent.com/6216077/81923642-f4e12a00-9618-11ea-84de-91ce4cdabeb9.png)
 
