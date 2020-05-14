@@ -1,1 +1,1 @@
-# RTM_Tutorial_Zoom
+# RTM講習会オンライン開催のドキュメント置き場
