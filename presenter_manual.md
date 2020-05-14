@@ -21,7 +21,7 @@
 ![image](https://user-images.githubusercontent.com/6216077/81894507-e7ad4680-95ea-11ea-9300-e84d4c3cf75a.png)
 ![image](https://user-images.githubusercontent.com/6216077/81894567-07446f00-95eb-11ea-8bca-8b28e2bb9f5d.png)
 
-** `設定`->`ミーティング`で以下の設定を行う
+`設定`->`ミーティング`で以下の設定を行う。
 
 <!-- 「参加者ビデオ」をオフ -->
 <!-- 「参加者をエントリ後にミュートにする」をオン -->
