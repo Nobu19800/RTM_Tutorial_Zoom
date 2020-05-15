@@ -77,9 +77,11 @@
 1. 補助スタッフのリモート制御によりサポートを受ける
 1. 解決したらホスト側でブレイクアウトセッションを移動させ質疑応答を終了する。
 
-![image](https://user-images.githubusercontent.com/6216077/81926148-7edec200-961c-11ea-83b3-69d8208257d3.png)
 
 ##### OSの再起動が必要な場合
 OpenRTM-aistのインストールを完了させるためにOSの再起動を求める場合があります。
 一旦全てのアプリケーションを閉じてOSを再起動してください。
 起動したら再度Zoom用URLにアクセスしてZoomを起動してください。
+
+
+![image](https://user-images.githubusercontent.com/6216077/82013079-560a0b80-96b4-11ea-9ef8-ae5795b9a814.png)
