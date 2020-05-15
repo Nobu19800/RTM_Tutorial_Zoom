@@ -113,5 +113,5 @@ ZoomのチャットにはSlackの「スレッドを開始する」というよ�
 1. `第2部：RTコンポーネント作成入門`のセッションに参加者を戻す
 
 
-![image](https://user-images.githubusercontent.com/6216077/82005044-58159f80-969f-11ea-9b7f-406a6f5f0251.png)
+![image](https://user-images.githubusercontent.com/6216077/82013009-31ae2f00-96b4-11ea-915e-f02a18e25f6b.png)
 
