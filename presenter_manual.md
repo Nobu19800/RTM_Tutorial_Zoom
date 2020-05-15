@@ -55,7 +55,8 @@
 質疑応答の時間にチャットで要求を受け付ける。
 質問者をホストが指名して、質問者の音声ミュートを解除する。
 
-![image](https://user-images.githubusercontent.com/6216077/81914055-c01aa600-960b-11ea-9f7a-ef8ef4132fcf.png)
+![image](https://user-images.githubusercontent.com/6216077/82004587-3ff15080-969e-11ea-8f11-a1bdc7fbc303.png)
+
 
 質疑応答終了後、質問者の音声をミュートに戻す。
 
