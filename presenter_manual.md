@@ -72,7 +72,8 @@
 
 2部開始前に参加者は全員`第2部：RTコンポーネント作成入門`のセッションに配置する。
 
-![image](https://user-images.githubusercontent.com/6216077/81914665-8dbd7880-960c-11ea-9f27-cf9502aa0c69.png
+![image](https://user-images.githubusercontent.com/6216077/81914665-8dbd7880-960c-11ea-9f27-cf9502aa0c69.png)
+
 
 `画面を共有`の高度な設定で`他の人が共有している場合に共有を開始できるのは誰ですか？`の項目を`ホストのみ`に設定する。
 
