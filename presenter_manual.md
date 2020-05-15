@@ -108,7 +108,7 @@ ZoomのチャットにはSlackの「スレッドを開始する」というよ�
 1. 対象の受講者の音声ミュートを解除する
 1. 対象の受講者の画面を共有する
 1. 問題が解決しない場合、対象の受講者へリモート制御をリクエストする。
-![image](https://user-images.githubusercontent.com/6216077/81920645-73879880-9614-11ea-8800-26eb05fde4f9.png)
+![image](https://user-images.githubusercontent.com/6216077/82004875-dfaede80-969e-11ea-8577-6f254ab3c22e.png)
 1. 問題が解決したら音声をミュートにする
 1. `第2部：RTコンポーネント作成入門`のセッションに参加者を戻す
 
