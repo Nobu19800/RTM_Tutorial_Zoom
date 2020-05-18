@@ -75,7 +75,8 @@
 1. 解決しなかった場合、リモート制御のリクエストを承認する。
 ![image](https://user-images.githubusercontent.com/6216077/81928516-56f15d80-9620-11ea-9746-ab30579aaf43.png)
 1. 補助スタッフのリモート制御によりサポートを受ける
-1. 解決したらホスト側でブレイクアウトセッションを移動させ質疑応答を終了する。
+1. 解決したらブレイクアウトセッションから退出する(右下の`ルームを退出する`ボタン)
+![image](https://user-images.githubusercontent.com/6216077/82172709-e9864b00-9905-11ea-900a-424eac09c544.png)
 
 
 ##### OSの再起動が必要な場合
@@ -84,4 +85,4 @@ OpenRTM-aistのインストールを完了させるためにOSの再起動を求
 起動したら再度Zoom用URLにアクセスしてZoomを起動してください。
 
 
-![image](https://user-images.githubusercontent.com/6216077/82013079-560a0b80-96b4-11ea-9ef8-ae5795b9a814.png)
+![image](https://user-images.githubusercontent.com/6216077/82172862-6a454700-9906-11ea-892c-80d2b042bcd0.png)
