@@ -75,8 +75,9 @@
 1. 解決しなかった場合、リモート制御のリクエストを承認する。
 ![image](https://user-images.githubusercontent.com/6216077/81928516-56f15d80-9620-11ea-9746-ab30579aaf43.png)
 1. 補助スタッフのリモート制御によりサポートを受ける
-1. 解決したらブレイクアウトセッションから退出する(右下の`ルームを退出する`ボタン)
+1. 解決したらブレイクアウトセッションから退出する(右下の`ルームを退出する`ボタン->`ブレークアウトルームを退出する`ボタン)
 ![image](https://user-images.githubusercontent.com/6216077/82172709-e9864b00-9905-11ea-900a-424eac09c544.png)
+![image](https://user-images.githubusercontent.com/6216077/82173000-dd4ebd80-9906-11ea-8633-e7a1990f494a.png)
 
 
 ##### OSの再起動が必要な場合
